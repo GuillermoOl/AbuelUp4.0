@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70316742706",
+    "project_id": "appsiu-63968",
+    "storage_bucket": "appsiu-63968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70316742706:android:5059fe5d9ee715afa9442b",
+        "android_client_info": {
+          "package_name": "com.example.abuelup40"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQ_VF1TZhVqczZB3EEbu_HT_PeeKT0wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

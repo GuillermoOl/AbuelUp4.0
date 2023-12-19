@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">AbuelUp4.0</string>
+
+
+
+
+    <!-- activity_main inicio sesion -->
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="inicio_sesion">Inicio Sesion</string>
+    <string name="registro">¿No tienes una cuenta? Regístrate aquí</string>
+    <string name="logo">logo</string>
+
+    <!-- activity_registro Registro -->
+    <string name="correonuev">Correo</string>
+    <string name="nombre">Nombre Completo de Usuario</string>
+    <string name="edad">Edad</string>
+    <string name="contraseñaNue">Contraseña</string>
+    <string name="buttonRegister">Registrarse</string>
+
+
+    <!-- Menu Nombres -->
+    <string name="inicio">Inicio</string>
+    <string name="buscar">Buscar</string>
+    <string name="Perfil">Perfil</string>
+
+
+    <!-- Fragment_Perfil -->
+    <string name="img2">foto</string>
+    <string name="datos">Datos del Usuario</string>
+    <string name="datosFire">Nombre</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Edad">Edad</string>
+    <string name="Correo">Correo</string>
+    <string name="dato_de_firebase">Dato de Firebase</string>
+    <string name="place_details">Place Details</string>
+    <string name="place_name">Place Name</string>
+    <string name="cerrar">Cerrar</string>
+
+
+    <!-- Fragment_Residencia -->
+    <string name="botoncerrar">Cerrar</string>
+
+    <!-- Fragment_Busqueda -->
+    <string name="select_residence">Cerrar</string>
+    <string name="get_my_location">Cerrar</string>
+    <string name="mi_ubicaci_n">Mi Ubicación</string>
+
+</resources>
